@@ -1,3 +1,10 @@
+### *학회원 여러분께 제공하는 28기 세미밋업데이 산출물 readme 의 레퍼런스 문서입니다. 하단 내용은 모두 예시로 구성된 것으로, 자유롭게 readme 파일을 구성해주시면 됩니다.*
+<br>
+
+27기 세미밋업 README 파일 링크
+
+[GitHub - kusitms-com/27th_Semi_README: 27기 세미밋업용 산출물 리드미 저장 Repository입니다.](https://github.com/kusitms-com/27th_Semi_README/tree/main)
+
 # 🌟 서비스명
 
 
