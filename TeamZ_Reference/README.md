@@ -1,16 +1,18 @@
 # 🌟 서비스명
 
-<img src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/c163237a-be3e-446f-9ae1-7801001a6f81" width="600" height="800" align="center">
+
+<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-49-47" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/bba51986-1d36-4f5d-aac9-d82d81508e0b">
+
+<br><br>
 
 ## 서비스 소개를 적어주세요.
 > OOO은 … 서비스입니다.
-> <br><br><br>
+<br>
 
 ## 🕊️ 팀명
-<br><br><br>
-
 ### 팀명 :
-<br><br><br>
+<br>
+
 ## R&R
 
 | 분야 | 이름 | 포지션 |
@@ -24,26 +26,22 @@
 | 개발 | 정OO | 📱 iOS 화면 UI 구현, 서버 연동 |
 | 개발 | 김OO | 💻 백엔드 리드, DB 및 API 구축, 서버 배포 |
 | 개발 | 한OO | 🖥️ DB 및 API 구축, 서버 배포 |
+<br>
 
-<br><br><br>
 ## 🔎 목적 및 필요성
-
-<br><br><br>
 
 ### 목적
 
 이 서비스를 통해 어떤 문제를 해결하고 싶은지, 서비스를 기획하는 목적을 작성해주세요. 
-<br><br><br>
+<br>
 ### 필요성
 
 데스크리서치, 유저리서치 등을 바탕으로 파악한 이 서비스의 필요성을 작성해주시면 됩니다. 
 <br><br><br>
 ## 📊 리서치 및 시장조사
-
-<br><br>
-
 ### 1️⃣ 경쟁사 분석
-<br><br><br>
+<br>
+
 ### 2️⃣ 목표 시장
 
 | TAM | SAM | SOM |
@@ -53,9 +51,11 @@
 
 > *앱 다운로드 건 수 00만 건(수익시장의 00%) 확보를 시작으로, 점차 시장을 넓혀갈 예정입니다.*
 > 
-<br><br><br>
+<br>
+
 ### 3️⃣ 유저리서치 분석
-<br><br><br>
+<br>
+
 ## 👀 서비스 타겟층 정의
 
 
@@ -64,13 +64,14 @@
 | 분류 | 1차 타겟 유저 | 2차 타겟 유저 |
 | --- | --- | --- |
 | 타겟 설정 |  |  |
-| 관련 기 |  |  |
-<br><br><br>
+| 관련 기능 |  |  |
+<br>
+
 ## 💡 서비스 소개
-<br><br><br>
 
 ### **개요**
-<br><br><br>
+<br>
+
 ### 핵심 기능
 
 ***팀 내의 논의 결과에 따라 메뉴구조도, 플로우차트, 서비스블루프린트 등의 기획문서를 작성하여 첨부해주세요.***
@@ -82,35 +83,43 @@
 | --- | --- | --- | --- |
 | STEP 1 |  |  |  |
 | STEP 2 |  |  |  |
-<br><br><br>
+
+<br><br>
+
 ## **🎨 디자인 무드보드**
 
+<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/982e06ae-9957-487c-b5d3-10c7f369fcbb">
 
-![MoodBoard](https://github.com/kusitms-com/28th_Semi_README/assets/115339354/cbd4f5c0-637d-48cb-9356-91bc34d42ebb)
+<br><br>
 
 ## **🔍 System Architecture**
 
 
 // 시스템 아키텍쳐 이미지를 넣어주세요
-<br><br><br>
+<br><br>
+
 ## **💻 Technology**
 
 
 // 각 파트별 스택을 적어주세요
 
 - Web / Android
-  
+  -
+  -
 
-<br><br><br><br>
+<br><br>
 
   
 - Server
-  
-  <br><br><br><br><br>
+  -
+  -
+  <br><br>
   
 - Co-working Tool
+  -
+  -
 
- <br><br><br><br>
+ <br><br>
 
   
 
@@ -119,10 +128,10 @@
 // 각 파트별 기술 스택 선정 이유를 적어주세요
 
 ### **📘 Web/Android 스택 선정 이유**
-<br><br><br>
+<br><br>
 ### **📗 Server 스택 선정 이유**
 
-<br><br><br>
+<br><br>
 
 ## 🔖 Naming Rules
 
@@ -134,19 +143,21 @@
 
 
 // 팀 별 커밋 컨벤션을 적어주세요
-<br><br><br>
+<br><br>
 
 ### **📌 Type**
 
 | commit 명 | commit 뜻 |
 | --- | --- |
-|  |  |
+|     |     |
 |  |  |
 |  |  |
 |  |  |
 
-<br><br><br>
+<br>
 
 ## **🐬 Git Flow**
 
 // 팀 별 깃 플로우를 적어주세요
+
+<br>
