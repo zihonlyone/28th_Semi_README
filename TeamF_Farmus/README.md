@@ -25,7 +25,9 @@
 
 # [디자인 파트]
 
+![워터마크](https://devmint.s3.ap-northeast-2.amazonaws.com/readme/watermark.png)
 ![로고, 아이콘](https://devmint.s3.ap-northeast-2.amazonaws.com/readme/logo_icon.png)
+![서비스 브랜딩](https://devmint.s3.ap-northeast-2.amazonaws.com/readme/servicebranding.png)
 
 |          | 디자인 의도                                                                                                                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
