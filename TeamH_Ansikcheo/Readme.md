@@ -89,19 +89,24 @@
 
         
     - 배달K
-        
+
+![3](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/4282ceab-2a69-4dba-a20c-cab0e27ee2ad)
+
 
         
     - 팔도감
         
-        ![팔도감_UXUI.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/a3d16a8d-00f0-420e-971b-f2b7ff78c729/%E1%84%91%E1%85%A1%E1%86%AF%E1%84%83%E1%85%A9%E1%84%80%E1%85%A1%E1%86%B7_UXUI.png)
+![4](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/1b7e49a2-1d09-4037-9d10-6c3dfc781779)
+
+
         
 
 - 경쟁사·벤치마킹사 대비 자사 기능 분석
     
-    ![경쟁사 v. 자사 기능분석.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/4eeb9c03-9c25-444c-afa0-e4aaa8ebc8a8/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1_v._%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1_%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.jpg)
-    
-    ![경쟁사 v. 자사 기능분석-1.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/9236ba37-80d0-4d34-ae1b-ef4006f03b27/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1_v._%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1_%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8-1.jpg)
+![5](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/18574943-3b45-4be9-b749-5055f10dd2bd)
+
+![6](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/870bfe2f-96ee-4374-b8cb-97dcb5333844)
+
     
 
 1. **목표시장** 
@@ -125,9 +130,11 @@
 
 한식 섭취와 관련하여 교민들의 페인포인트와 니즈를 구체적으로 파악하기 위해 객관식 설문조사가 아닌 1:1 인터뷰를 진행하였습니다. 현재 해외에서 한식을 판매하고 계시는 분 두 분(예상 판매자)과 교민(예상 구매자) 여덟명과 인터뷰를 하였고 각기 거주 국가, 성별, 나이대 등이 다른 사람들과 인터뷰를 진행하여 다양한 배경의 사용자들의 니즈를 파악할 수 있었습니다. 
 
-![스크린샷 2023-10-12 오후 9.19.24.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/8b9f0813-bccd-40d9-af6f-f273178227a9/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-10-12_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.19.24.png)
+<img width="731" alt="스크린샷 2023-10-12 오후 9 19 24" src="https://github.com/kusitms-com/28th_Semi_README/assets/81168401/99471e23-bcc0-439c-806c-8a86c07e2d91">
 
-![스크린샷 2023-10-12 오후 9.19.39.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/b4e645a0-fb1a-463a-8042-4efd59de396c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-10-12_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.19.39.png)
+
+<img width="650" alt="스크린샷 2023-10-12 오후 9 19 39" src="https://github.com/kusitms-com/28th_Semi_README/assets/81168401/da9ca96e-52f9-41dc-8b6c-91c75c9d386c">
+
 
 인터뷰 결과를 요약하면 아래와 같습니다. 
 
@@ -202,7 +209,8 @@
 
 - **핵심 기능** (IA)
     
-    ![IA_집밥도착_231012.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/c5dedd60-4de9-444e-8117-49c83c5fe799/IA_%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%87%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A9%E1%84%8E%E1%85%A1%E1%86%A8_231012.png)
+<img width="10843" alt="7" src="https://github.com/kusitms-com/28th_Semi_README/assets/81168401/4ad3681d-dac4-49f4-b680-8dc8b8799169">
+
     
 
 ### 서비스 비즈니스 모델
@@ -211,19 +219,22 @@
 
 - **파트너사 연계 방안**
     
-    ![파트너사 연계방안.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/83becba8-1125-45e6-8402-66a717e95c1a/%E1%84%91%E1%85%A1%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%84%89%E1%85%A1_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A8%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%AB.jpg)
+![8](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/69768a90-77bc-4dfa-bedc-6c14a51f5463)
+
     
 
 - **수익 창출방안**
     
-    ![수익 창출방안.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/4ed9089c-88b4-4627-922b-9d6e91b22e8e/%E1%84%89%E1%85%AE%E1%84%8B%E1%85%B5%E1%86%A8_%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%AB.jpg)
+![9](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/30e2456d-1a1a-4212-a733-49320be2d4dc)
+
     
 
 ### 디자인 무드보드
 
 ---
 
-![집밥도착 moodboard_최종.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/18a0a25a-d9bf-427e-861d-11c8e92c9ff0/%EC%A7%91%EB%B0%A5%EB%8F%84%EC%B0%A9_moodboard_%EC%B5%9C%EC%A2%85.png)  
+<img width="1920" alt="10" src="https://github.com/kusitms-com/28th_Semi_README/assets/81168401/63a0bafe-7cb0-46d5-99be-75c98904df57">
+
 
   
 
@@ -232,7 +243,8 @@
 
 ---
 
-![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/c6d67777-ca7b-428e-9b37-f18a7364c105/Untitled.png)
+![Untitled](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/575497a0-d18e-4fcd-bf6f-f6bbca85ee5d)
+
 
 ### 파트별 스택
 
