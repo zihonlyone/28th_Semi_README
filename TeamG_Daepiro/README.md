@@ -98,7 +98,7 @@
 
 
 
-<img src="./image/Evacuation_Market.png" width="700" height="700"/>
+<img src="./image/Evacuation_Market.png" width="500" height="500"/>
 
 <br>
 
