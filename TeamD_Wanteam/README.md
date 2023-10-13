@@ -359,7 +359,7 @@ Ex) `git commit -m "feat(#8) : 앱 설치 플로팅 배너 추가" `
 - `feat` : 새로운 기능 추가
 - `fix` : 버그 수정
 - `chore` : 빌드 업무, 패키지 매니저, 라이브러리, dependencies 설정
-- `docs` : 문서 수정 - <i>README.md, .github, ..etc</i>
+- `docs` : 문서 수정 - <i>README.md, .github, ...etc</i>
 - `design` : 사용자 UI 디자인 변경 - <i> CSS</i>
 - `style` : 기능 수정 없는 코드 스타일 변경
 - `refactor` : 코드 리팩터링
