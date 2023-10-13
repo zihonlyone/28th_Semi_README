@@ -95,8 +95,9 @@
 ## 👀 서비스 타겟층 정의
 
 서비스 ‘제대로’의 목표 타겟층은 다음과 같습니다.
+<br>
 <img width="607" alt="스크린샷 2023-10-13 오후 8 51 40" src="https://github.com/kusitms-com/28th_Semi_README/assets/50680955/3f982d9b-e04e-4011-9a9b-dd687279b060">
-
+<br>
 
 ## 💡 서비스 소개
 
