@@ -1,5 +1,5 @@
 # 🌟 서비스명
-![main_image](https://github.com/Kusitms-28th-Meet-Up-B/SemiMeetup/assets/79454352/da996089-9c8d-45a1-9608-5b146e767893)
+![main_image](https://github.com/kusitms-com/28th_Semi_README/assets/87255791/27397bff-3804-471c-833d-aa564fec8629)
 
 
 <br>
@@ -192,10 +192,10 @@
     5. 찜 기능: 관심있는 여행 프로그램을 찜 기능을 통해 한 데 모아 볼 수 있음
     
 ### FLOWCHART
-![FLOWCHART](https://github.com/Kusitms-28th-Meet-Up-B/SemiMeetup/assets/115688330/a87d3bf7-edb6-4261-936b-a4b85707310a)
+![FLOWCHART](https://github.com/kusitms-com/28th_Semi_README/assets/87255791/5b8b1bc1-20ce-4a89-a3cc-916a401aee02)
 
 ### IA
-![IA](https://github.com/Kusitms-28th-Meet-Up-B/SemiMeetup/assets/115688330/c173bd38-9ec0-4ac5-80f6-b3782e1207cd)
+![IA](https://github.com/kusitms-com/28th_Semi_README/assets/87255791/ebbb2c04-0cfe-49ab-a343-a9c92438c1b8)
 
 
 <br><br><br>
@@ -230,8 +230,6 @@
 <br><br>
 
 ## **💻 Technology**
-
-// 각 파트별 스택을 적어주세요
 
 - ## Web Front
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=black"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
