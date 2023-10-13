@@ -27,8 +27,8 @@
 | 디자인/디자인 리드     | 권예인                                    | 디자인 시스템, UX 설계, UI 디자인 및 Prototype |
 | 프론트엔드/프론트 리드 | [김민주](https://github.com/mjkim1019)    | AOS 화면 UI 구현, API 연동                    |
 | 프론트엔드             | [강승구](https://github.com/kang9366)     | AOS 화면 UI 구현, API 연동                    |
-| 백엔드/코파운더        | [한호정](https://github.com/hojeong2747)  | 코파운더, DB 및 API 구축                       |
-| 백엔드/백엔드 리드     | [민경혁](https://github.com/kyeong-hyeok) | 백엔드 리드, 서버 배포, DB 및 API 구축         |
+| 백엔드/코파운더        | [한호정](https://github.com/hojeong2747)  | DB 및 API 구축                       |
+| 백엔드/백엔드 리드     | [민경혁](https://github.com/kyeong-hyeok) | 서버 배포, DB 및 API 구축         |
 
 <br>
 
