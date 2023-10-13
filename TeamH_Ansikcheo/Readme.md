@@ -2,9 +2,11 @@
 
 ---
 
-![집밥도착 서비스 이미지_최종.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/f92d20c3-6ad6-4dff-88ea-fd9425b19b3d/%EC%A7%91%EB%B0%A5%EB%8F%84%EC%B0%A9_%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%B5%9C%EC%A2%85.png)
+<img width="1920" alt="1" src="https://github.com/kusitms-com/28th_Semi_README/assets/81168401/76e8c2f8-0e82-4d20-b5ff-66985d078208">
 
-![집밥도착 OVERVIEW_최종.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/0b064517-8a48-4325-836b-21daeb6727d7/%EC%A7%91%EB%B0%A5%EB%8F%84%EC%B0%A9_OVERVIEW_%EC%B5%9C%EC%A2%85.png)
+
+<img width="1920" alt="2" src="https://github.com/kusitms-com/28th_Semi_README/assets/81168401/bf3653ad-21c4-4754-9ea6-687f102d3194">
+
 
 ### 서비스 소개
 
@@ -68,7 +70,8 @@
 
 이에 대한 대안으로 카카오톡, 인스타그램과 같은 **SNS**를 통해 주변 교민이 만든 한식을 구매하는 방법이 있을 수 있지만, 낮은 인지도와 비효율적 운영 방식으로 역시 한식 집밥을 먹을 수 있는 완전한 경로가 되지 못하고 있습니다.  
 
-![마켓 포지셔닝 - 1.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/c47983f3-6ae3-4ae5-8264-d1439c662205/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A6%E1%86%BA_%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%84%82%E1%85%B5%E1%86%BC_-_1.jpg)
+![마켓 포지셔닝 - 1](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/3a8cf4ee-46c2-47ec-963a-47bb7be409a7)
+
 
 위와 같은 이유들로 교민들은 한식 집밥을 그리워하지만 현재 이를 섭취하는 것에 대해 100% 만족하지 못하고 있기 때문에, **교민들이 만족스럽게 한식 집밥을 먹을 수 있도록 도움을 제공하는 서비스**가 필요하다고 생각했습니다. 
 
@@ -79,27 +82,15 @@
 1. **경쟁사 분석**
 - 주요 경쟁사
 
-- 작성 아이데이션 **(깃에 옮기지 마세요)**
-    - 직접 조리 - (한식 식료품) Weee 등
-    - (가운데) - **만나반찬, 인스타그램/카톡 반찬업체 +** (배달K)
-    - 외식 - (음식) 도어대시, 우버이츠 등등 … + **배달K**
-    
-    - 직접적인 경쟁사
-        - **배달K**
-    - 기존 배달플랫폼
-        - (음식) 도어대시, 우버이츠 등등 …
-        - (한식 식료품) Weee,
-    - *영세한 한식 독립 배달업체*
-        - 만나반찬, 인스타그램/카톡 반찬업체
-
 - 경쟁사·벤치마킹사 UXUI 분석
     - 선정 이유
         
-        ![경쟁사 & 벤치마킹사 선정.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/f024c091-27e5-4569-84bf-0142f278323b/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1__%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B5%E1%86%BC%E1%84%89%E1%85%A1_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC.jpg)
+![경쟁사   벤치마킹사 선정](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/af9b64db-8281-4971-8ddf-bee24a947566)
+
         
     - 배달K
         
-        ![배달K_경쟁사UI.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/6ab85866-d02a-4cec-9192-57b39aaf7a3e/%E1%84%87%E1%85%A2%E1%84%83%E1%85%A1%E1%86%AFK_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1UI.png)
+
         
     - 팔도감
         
