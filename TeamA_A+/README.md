@@ -66,9 +66,6 @@
 ### 1️⃣ 경쟁사 분석
 ![플로우 별 경쟁사 분석](https://github.com/kusitms-com/28th_Semi_README/assets/147050668/6e5ed2b1-174c-48b9-ba03-73df355762b0)
 ![플로우 별 경쟁사 분석2](https://github.com/kusitms-com/28th_Semi_README/assets/147050668/fbf3c809-f264-49c4-9a29-dcd258507bf0)
-![플로우 별 경쟁사 분석3](https://github.com/kusitms-com/28th_Semi_README/assets/147050668/2d6c9a33-d973-425b-b74c-7dab2d8a8b6e)
-![4](https://github.com/kusitms-com/28th_Semi_README/assets/147050668/a3fe49b7-fd31-4e42-929b-d3065adf1fcf)
-
 
 ### 2️⃣ 목표 시장
 
