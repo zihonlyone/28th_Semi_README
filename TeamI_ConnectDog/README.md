@@ -57,7 +57,7 @@
 
 이동봉사는 크게 **이동봉사 신청 → 안내& 사전 준비 → 당일 출발 → 당일 도착**의 과정으로 구성됩니다.
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/bf0ba874-59b8-4f07-9b82-47ec0b73275b"/>
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/00a5d958-f5a4-4618-9fc9-b9f94bc897a3"/>
 
 <br>
 <br>
@@ -79,7 +79,9 @@
 
 - 이동봉사 신청 방식에 대한 국내, 해외 이동봉사 경험자 118명의 설문지 답변을 종합해본 결과, 약 82%가 “일정, 지역에 맞는 특정 이동봉사 공고를 선택하는 방식”이 아닌, “이동봉사 단체를 먼저 선택하는 방식”으로 이동봉사를 신청했지만, 약 84%는 하나의 플랫폼에서 이동 일정, 지역에 맞는 특정 유기견 공고를 신청하는 방식을 더 선호한다는 결과가 도출되었습니다.
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/4106377d-bcd4-4034-97c7-cdc7507a0394"/>
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/898785a8-0980-4d8e-bc74-f3ba9266121e"/>
+
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/d44769a6-fa23-4996-b2d2-f963a3b4df49"/>
 
 <br>
 <br>
@@ -116,7 +118,7 @@
 
 <br>
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/4a460888-de34-4bc5-b637-811cde8bd4cf"/>
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/bb9fddca-e65f-4a01-a270-a594e46c649c"/>
 
 <br>
 <br>
@@ -396,7 +398,7 @@
 
 ## 🎨 디자인
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/d6344594-343f-402d-8429-51e334798be1"  width="750">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/312ac1f0-0270-4084-a3e6-c449cc690741" width="750">
 
 <br>
 <br>
@@ -417,7 +419,7 @@
 
 ### 🌱 Server
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/c7353671-5ca9-4d27-9ba8-c58b7f8753ef"  width="830">
+<img src="https://github.com/PawWithU/ConnectDog-Server/assets/80199502/417ba161-1366-49a0-955b-3fcaac8edb99"  width="830">
 
 <br>
 
