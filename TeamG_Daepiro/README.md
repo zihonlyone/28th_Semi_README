@@ -183,8 +183,10 @@
 | --- | --- | --- | --- |
 | STEP 1 | 유저 | 대피로 | 토큰 발급을 위한 인앱 결제 |
 | STEP 2 | 대피로 | 유저 | 1.지급된 토큰을 통한 펀딩 참여 및 추가 콘텐츠 이동 기회 부여 <br> 2. 충성 고객을 확보해 User Retention을 유지 및 상승시키는데 도움 |
-| STEP 3 | 대피로 | 후원 | 펀딩 참여자 확보에 도움 |
+| STEP 3 | 대피로 | 후원사 | 펀딩 참여자 확보에 도움 |
 | STEP 4 | 후원사 | 대피 | 수수료 지급 및 펀딩 관련 도움 제공  |
+| STEP 5 | 페이백 정책  | 유저 | 1.후원 금액에 따라 4단계로 등급이 나뉜다 <br> 2.등급에 따라 후원 금액의 1%, 2%, 3%, 4% 로 토큰이 페이백된다| 
+
 
 <br>
 
@@ -208,10 +210,10 @@
 ![image](https://github.com/nohy6630/readme_test/assets/129354455/6f0322dd-2f0b-4621-be98-81292f73eb58)
 
 ## 💻 기술 스택
-- Web
+- Android
     - ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
       ![Retrofit](https://img.shields.io/badge/Retrofit-%23009020)
-      ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4?logo=jetpackcompose&logoColor=white)
+      ![Jetpack](https://img.shields.io/badge/Jetpack%20Compose-%234285F4?logo=jetpackcompose&logoColor=white)
 
 - Server
     - ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F?logo=springsecurity&logoColor=white)
