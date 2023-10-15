@@ -672,8 +672,6 @@
 
 #### **🐬 깃플로우**
 
----
-
 작업 시작 시 선행되어야 할 작업
 
 1. issue를 생성합니다.
@@ -692,8 +690,6 @@
 <br></br>
 
 #### 📌 커밋 컨벤션
-
----
 
 `[<Prefix>]:<Module_Name> #<Issue_Number> <Description>`의 양식을 준수.
 
@@ -725,8 +721,6 @@
 
 #### ⚠️ Issue
 
----
-
 - ##### Issue Naming Rule
   - Issue Naming 규칙은 Commit convention과 동일한 `Prefix`와 `Module_Name`을 사용합니다.
     - `[<Prefix>]:<Module_Name> description`
@@ -734,8 +728,6 @@
 <pre>🍀 [feat]:Main kaka OAuth service 구현</pre>
 <br></br>
 #### 💭 Branch
-
----
 
 - ##### Branch Naming Rule
 
@@ -770,8 +762,6 @@ feature/5-config
 <br></br>
 #### 💯 Pull Request
 
----
-
 develop & main branch로 merge할 때에는 pull request가 필요합니다. pull request의 내용에는 변경된 사항에 대한 설명을 명시합니다.
 
 - #####  Pull Request Naming Rule
@@ -786,10 +776,8 @@ develop & main branch로 merge할 때에는 pull request가 필요합니다. pul
 
 ## 🔗기능명세서
 
-—
-
 | 구분 | Depth1 | Depth2 | 기능설명 | 우선순위 |
-| — | — | — | — | — |
+| --- | --- | --- | --- | --- |
 | 온보딩A | 온보딩 팝업 |  | 서비스 소개 페이지,창닫기  | MID |
 | 소셜로그인 | 소셜로그인 페이지 |  |  | HIGH |
 |  |  | 구글로 밋플하기 |  | HIGH |
@@ -816,5 +804,3 @@ develop & main branch로 merge할 때에는 pull request가 필요합니다. pul
 | 팀 설정 |  |  |  | LOW |
 | 팀 개설 및 초대  | 팀 생성하기 페이지 |  |  | MID |
 |  | 팀 초대하기 페이지 |  |  | MID |
-
-
