@@ -218,10 +218,36 @@
 
 ---
 
-![Untitled](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/575497a0-d18e-4fcd-bf6f-f6bbca85ee5d)
+![아키텍쳐1](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/dd3abbcf-1b4c-418e-9758-f9ed845ed384)
 
 
-### 파트별 스택
+
+### 기술스택
+
+---
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  ![Retrofit](https://img.shields.io/badge/Retrofit-%23009020)
+- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
+- ![Java 17](https://img.shields.io/badge/Java%2017-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F?logo=springsecurity&logoColor=white)
+  ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-007ACC?style=flat-square&logo=kotlin&logoColor=white)
+  ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+  ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
+  ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
+  ![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-003545?style=flat-square&logo=AWS%20CodeDeploy&logoColor=white)
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
+  
+  
+
+
+
+### 파트별 스택 설명
 
 ---
 
@@ -241,6 +267,8 @@
 - **협업툴**
     - notion, discord, slack
 
+
+
 ### 네이밍룰
 
 ---
@@ -252,6 +280,8 @@
 - ENUM, 상수: **Upper_snake_case**
 - 컬렉션(Collection): **복수형**을 사용하거나 **컬렉션을 명시합니다**. (Ex. userList, users, userMap)
 - LocalDateTime: 접미사에 **Date**를 붙입니다.
+
+
 
 ### 커밋컨벤션
 
@@ -269,3 +299,12 @@
 - **build**: dependencies 업데이트
 - **chore** : 의존성 추가, yml 추가와 수정, 패키지 구조 변경, 파일 이동 `chore: #21 yml 수정`, `chore: #22 lombok 의존성 추가`
 - **test**: 테스트 코드 작성, 수정 `test: #20 로그인 API 테스트 코드 작성`
+
+
+
+### 깃 브랜치 전략
+
+---
+
+- github flow  
+![github-flow-branching-model](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/823aa485-5fb9-49f0-bbaa-7f417d30743b)
