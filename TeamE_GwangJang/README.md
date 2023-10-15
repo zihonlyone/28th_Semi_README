@@ -1,4 +1,4 @@
-# 🌟 서비스명
+# 🌏 광장
 ![표지](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/f59cf132-3ec2-487e-b6cf-eb254732db6f)
 
 ![표지2](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/28fcaf02-ea13-4f9c-906f-1e5176895f42)
@@ -51,12 +51,11 @@
 > 
 ![이미지1](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/3bf8263c-fee8-4752-b1ed-405e3e4943e2)
 
-이전의 분석은 청년들의 정치적 무관심을 사회에 대한 관심 부족으로 연결 지어 왔습니다. 
-그러나 청년 세대(만 19세~34세) 310명을 대상으로 진행한 설문조사 및 데스크 리서치 결과, 
-청년 세대(만19세~34세)는 사회 문제에 많은 관심을 가지고 있으며 꽤 적극적으로 찾아보고 있음을 확인할 수 있었습니다. 
+이전의 분석은 청년들의 정치적 무관심을 사회에 대한 관심 부족으로 연결 지어 왔습니다.<br> 그러나 청년 세대 (만 19세 ~ 34세) 310명을 대상으로 잔행한 설문조사 및 데스크 리서치 결과, 청년 세대(만 19세 ~ 34세)는 사회 문제에 많은 관심을 가지고 있으며 꽤 적극적으로 찾아보고 있음을 확인할 수 있었습니다.
+
+<br> 
 
 ![이미지2](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/3e2fc035-6e15-4262-88aa-14a50138ca11)
-
 
 더불어 많은 청년들은 사회문제 해결을 위해 새로운 법안과 정책의 도입이 필요하다고 느끼고, 기존 법안과 정책 수정이 필요하다고 생각하고 있었습니다. 즉, **사회문제 해결을 위한 법안과 정책의 중요성을 인지**하고 있는 것입니다.
 
@@ -67,11 +66,11 @@
 
 <br> 
 
-<aside>
+```
 ❓ 이해하기 어렵고, 원하는 정보를 찾아보기 어렵다.
-  
-![이미지3](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/649fa6e1-86d5-44a0-82bf-955b4283c64f)
+```
 
+![이미지3](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/649fa6e1-86d5-44a0-82bf-955b4283c64f)
 청년들은 다양한 사회 문제에 관심 갖는데 비해, 관련 정책이나 법안에 대해서는 인지하지 못하고 있었습니다. 그리고 이 원인으로 ‘내용을 이해하기 어렵다’(33%), ‘원하는 정보를 찾아보기 어렵다’(24%)와 같은 항목을 가장 많이 꼽았습니다. 
 
 </aside>
@@ -79,9 +78,10 @@
 <br> 
 
 <aside>
-❓  정치 자체에 대한 회의감과 피로감, 부정적 인식이 존재한다.
   
-![이미지4](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/da47bd42-dcf3-4ba8-ad6d-83a987197821)
+  ```
+❓  정치 자체에 대한 회의감과 피로감, 부정적 인식이 존재한다.
+  ```
   
 ![이미지5](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/bf47d848-2997-4682-8e3d-1956457020a9)
 
@@ -114,7 +114,7 @@
 
 ### 📈**경쟁사 분석 및 차별성 도출**
 
-> **"광장"**의 경쟁 서비스인 ”**오늘, 여의도**”와 ”**옥소폴리틱스**”를 보다 심층적으로 조사해 다음과 같이 서비스 차별성을 분석했습니다.
+> "**광장**"의 경쟁 서비스인 ”**오늘, 여의도**”와 ”**옥소폴리틱스**”를 보다 심층적으로 조사해 다음과 같이 서비스 차별성을 분석했습니다.
 > 
 
 |  | 🌏 광장 | 오늘, 여의도 | 옥소폴리틱스 |
@@ -125,6 +125,8 @@
 |  정보 제공  | - 정책/법안을 보기 쉽게 정리하여 현재 국회가 가장 집중하고 있는 사회문제 안건에 대한 정보 제공  <br> - 사회문제 카테고리 별 정책/법안 정보 제공  <br> - 유저 맞춤형 정책/법안 정보 제공 | - 법안 정보와 진행 현황 정보 제공 | - 오늘의 뉴스 브리핑 정보 제공으로 사회 이슈와 정치 이슈를 조명함 |
 |  커뮤니티 기능  | - 정치 성향을 배제하고, 사회 문제에 대한 더 나은 해결책을 찾기 위한 논의의 장 <br> - 정책/법안 개선 제안 및 논의, 서명 참여, 모임 모집 기능 | 커뮤니티 기능 부재 | - 커뮤니티 피드에서 정치 성향을 기반으로 자유로운 소통  <br> - 비슷한 생각을 가진 사람들과 그룹을 만들고 그룹 채팅방에서 논의 |
 
+<br> 
+
 <aside>
 💡 서비스 차별성 1️⃣ : 어렵게 느껴지는 입법 정보를 쉽고 직관적으로 표시 
 
@@ -132,7 +134,6 @@
 
 </aside>
 
-<br> 
 
 <aside>
 💡 서비스 차별성 2️⃣ : 유저 맞춤형 정보 제공
@@ -140,6 +141,9 @@
 </aside>
 
 <br> 
+
+<br> 
+
 
 <aside>
 💡 서비스 차별성 3️⃣ : 해결책을 논의하는 건강한 커뮤니티
@@ -214,7 +218,7 @@
 
 ## 💳서비스 비즈니스 모델
 
-> **“광장”**은 **정보 제공 기능**을 **무료로 제공**하여 서비스의 공익성을 추구합니다.
+> “**광장**”은 **정보 제공 기능**을 **무료로 제공**하여 서비스의 공익성을 추구합니다.
 **더 많은 기능과 혜택을 원하는 유저**에게는 **크레딧** **과금**을 통해 다양한 기능을 제공합니다.
 > 
 
@@ -230,6 +234,13 @@
 ![디자인1](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/f0f2b319-ba6a-4784-8237-39ade000a963)
 ![디자인2](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/8f65fd5b-4a07-4eec-8806-9899e6ddb935)
 ![디자인3](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/c472c2c3-d046-4539-9b2a-e7a3badabafb)
+
+<br>
+
+
+## **💻 System Architecture**
+
+![architect](https://github.com/kusitms-28th-Meetup-E/.github/assets/53565255/b65c196d-6500-43d5-9389-acd2a0325798)
 
 <br>
 
@@ -261,12 +272,6 @@
 
 ### Co-working Tools
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white">
-
-<br>
-
-## **💻 System Architecture**
-
-![architect](https://github.com/kusitms-28th-Meetup-E/.github/assets/53565255/b65c196d-6500-43d5-9389-acd2a0325798)
 
 <br>
 
