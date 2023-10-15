@@ -399,7 +399,7 @@
 
 ## 🎨 디자인
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/312ac1f0-0270-4084-a3e6-c449cc690741" width="750">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/836eb9c5-bafc-4c02-b665-5b7a6b740bf6" width="750">
 
 <br>
 <br>
@@ -420,7 +420,7 @@
 
 ### 🌱 Server
 
-<img src="https://github.com/PawWithU/ConnectDog-Server/assets/80199502/417ba161-1366-49a0-955b-3fcaac8edb99"  width="830">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/7ed21a59-e093-4e1d-9248-147632f8f4ea"  width="830">
 
 <br>
 
